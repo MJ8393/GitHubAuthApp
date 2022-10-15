@@ -1,0 +1,6 @@
+framework module Pods_GitHubRepoInfinBankTask {
+  umbrella header "Pods-GitHubRepoInfinBankTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
